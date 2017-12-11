@@ -1,0 +1,13 @@
+log/*
+.byebug_history
+*.~
+*.swp
+db/migrate/*
+tmp/*
+*.swo
+public/uploads/*
+
+# Ignore application configuration
+/config/application.yml
+
+coverage/*
